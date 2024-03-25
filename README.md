@@ -14,6 +14,7 @@ FraudShield is an innovative web application aimed at combating online fraud and
 - Through a dedicated Chrome extension, intercepts and alerts users when they encounter potentially harmful phishing links embedded in emails, SMS, or other messages.
 - Proactively blocks navigation to these deceptive links, safeguarding users' personal and financial information.
 
+## Note that the code in the GitHub is just for the front-end of FraudShield
 ## Installation
 
 To install FraudShield, follow these steps:
