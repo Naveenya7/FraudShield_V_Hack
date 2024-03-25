@@ -23,10 +23,15 @@ To install FraudShield, follow these steps:
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
-## Technologies Used
+## Technologies Used for front
 
 - React: Frontend development
 - Node.js: Backend development
+- TensorFlow
+- SERP API
+- Python
+- LnagChain
+- Fine-tuned LLMs
 - Express.js: Backend server framework
 - MongoDB: Database for storing user data
 - Mongoose: MongoDB object modeling for Node.js
